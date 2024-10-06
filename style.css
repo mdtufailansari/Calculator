@@ -132,6 +132,7 @@ color:rgb(255, 60, 0) ;
     color: rgb(238, 10, 10);
     font-size: 1.7rem;
 }
+
  @media(max-width:500px) {
     body{
         height: 100vh;
