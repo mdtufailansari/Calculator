@@ -47,26 +47,23 @@ background-color: ;
     text-align: right;
 }
 #Box3{
-
 }
 .ChildBox3{
      display: flex; 
     width: 400px;
     position: relative;
     top: 170px;
-    font-size: 3rem;  
-    
+    font-size: 3rem;
 }
 #Child2Box3{
-    overflow-x: scroll;
-    scrollbar-width: none;
     position: relative;
     top: 169px;
     font-size: 1.5rem;
     color: gray;
     width: 400px;
     height: 50px;
-    
+    overflow-x: scroll;
+    scrollbar-width: none;
 }
 #showOperator{
     float: right;
@@ -182,6 +179,6 @@ color:rgb(255, 60, 0) ;
     width: 10%;
 }
 #show{
-  width: 90%;
+  width: ;
 }
 }
